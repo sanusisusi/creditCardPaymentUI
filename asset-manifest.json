@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/creditCardPaymentUI/static/css/main.0e89c6f1.chunk.css",
+    "main.js": "/creditCardPaymentUI/static/js/main.9668114d.chunk.js",
+    "main.js.map": "/creditCardPaymentUI/static/js/main.9668114d.chunk.js.map",
+    "runtime-main.js": "/creditCardPaymentUI/static/js/runtime-main.000cbb1c.js",
+    "runtime-main.js.map": "/creditCardPaymentUI/static/js/runtime-main.000cbb1c.js.map",
+    "static/css/2.a1596f27.chunk.css": "/creditCardPaymentUI/static/css/2.a1596f27.chunk.css",
+    "static/js/2.7891bb85.chunk.js": "/creditCardPaymentUI/static/js/2.7891bb85.chunk.js",
+    "static/js/2.7891bb85.chunk.js.map": "/creditCardPaymentUI/static/js/2.7891bb85.chunk.js.map",
+    "index.html": "/creditCardPaymentUI/index.html",
+    "static/css/2.a1596f27.chunk.css.map": "/creditCardPaymentUI/static/css/2.a1596f27.chunk.css.map",
+    "static/css/main.0e89c6f1.chunk.css.map": "/creditCardPaymentUI/static/css/main.0e89c6f1.chunk.css.map",
+    "static/js/2.7891bb85.chunk.js.LICENSE.txt": "/creditCardPaymentUI/static/js/2.7891bb85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.000cbb1c.js",
+    "static/css/2.a1596f27.chunk.css",
+    "static/js/2.7891bb85.chunk.js",
+    "static/css/main.0e89c6f1.chunk.css",
+    "static/js/main.9668114d.chunk.js"
+  ]
+}
